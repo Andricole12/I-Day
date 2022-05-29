@@ -1,0 +1,87 @@
+/* Fav Colors
+    #F7CAC9: light pink :hsl(1, 74%, 88%)
+    #4169e1: blue :hsl(225, 73%, 57%)
+    #B3CEE5: light blue :hsl(208, 49%, 80%)
+    #BDB5D5: light purple :hsl(255, 28%, 77%)
+*/
+
+body {
+    font-family:'Architects Daughter', cursive, sans-serif;
+    color: hsl(225, 80%, 65%);
+    display: flex;
+    flex-flow: column wrap;
+    margin: 0;
+}
+
+.row-wrapper, .column-wrapper {
+    display: flex;
+}
+
+.row-wrapper {
+    flex-flow: row wrap;
+}
+
+.column-wrapper {
+    flex-flow: column wrap;
+}
+
+/* header classes */
+
+.background {
+    background-color: hsl(254, 37%, 18%);
+}
+
+.background .row-wrapper {
+    justify-content: space-around;
+    align-content: center;
+}
+
+.title-color {
+    background-color: hsl(253, 56%, 78%);
+}
+
+.title {
+    font-family: 'Amatic SC', cursive;
+    font-size: 64px;
+    font-weight: 700;
+    color: hsl(225, 100%, 57%);
+}
+
+.description {
+    max-width: 550px;
+}
+
+/* main content */
+
+.content {
+    margin: 30px 5px;
+    background-color: hsl(0, 62%, 70%);
+}
+
+.content .row-wrapper{
+    justify-content: center;
+    align-content: center;
+}
+
+.content .title {
+    font-size: 48px;
+}
+
+.information {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.boxes {
+    max-width: 200px;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.boxes img {
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 25px;
+    border: solid 5px hsl(208, 49%, 80%);
+}
