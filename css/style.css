@@ -11,6 +11,9 @@
   #4169e1: blue :hsl(225, 73%, 57%)
   #B3CEE5: light blue :hsl(208, 49%, 80%)
   #BDB5D5: light purple :hsl(255, 28%, 77%)
+
+  primary #F195B2
+  secondary #62C3E7
 */
 
 :root {
@@ -27,8 +30,8 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #F195B2;
-  --secondary: #62C3E7;
+  --primary: #F7CAC9;
+  --secondary: #B3CEE5;
   --success: #28a745;
   --info: #17a2b8;
   --warning: #ffc107;
