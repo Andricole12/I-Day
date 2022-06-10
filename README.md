@@ -2,7 +2,7 @@
 Birthday website for Ilee bcuz I forgot her birthday(I'm sorry!)
 
 
-## Credits for the Template I used:
+## Credits for the Website Template I used:
 * Template Name    : iCREAM - Ice Cream Shop Website Template
 
 * Template Link    : https://htmlcodex.com/ice-cream-shop-website-template
@@ -14,3 +14,7 @@ Birthday website for Ilee bcuz I forgot her birthday(I'm sorry!)
 * Author Website   : https://htmlcodex.com
 
 * About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+
+## Resume
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/astronaomical/pen/KexYgb](https://codepen.io/astronaomical/pen/KexYgb).
