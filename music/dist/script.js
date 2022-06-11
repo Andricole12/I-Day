@@ -49,7 +49,7 @@ $(function () {
       "Don Quixote - Seventeen",
       "IF you leave me - Seventeen",
       "Blueming - IU",
-      "Celebrity - IU",
+      "Celebrity - IU"
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6", "_7", "_8", "_9"],
     trackUrl = [
@@ -61,7 +61,7 @@ $(function () {
       "../../audio/dq.mp3",
       "../../audio/iylm.mp3",
       "../../audio/blueming.mp3",
-      "../../audio/celebrity.mp3",
+      "../../audio/celebrity.mp3"
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
