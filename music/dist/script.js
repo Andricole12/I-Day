@@ -34,22 +34,34 @@ $(function () {
       "Kidult",
       "Opening Sequence",
       "Fever",
-      "Ginintuang Tanawin"
+      "Ginintuang Tanawin",
+      "Don Quixote",
+      "IF you leave me",
+      "Blueming",
+      "Celebrity"
     ],
     trackNames = [
       "Shadow - Seventeen",
       "Kidult - Seventeen",
       "Opening Sequence - Tomorrow X Together",
       "Fever - Enhypen",
-      "Ginintuang Tanawin - Marc. A ft. Gwy Saludes"
+      "Ginintuang Tanawin - Marc. A ft. Gwy Saludes",
+      "Don Quixote - Seventeen",
+      "IF you leave me - Seventeen",
+      "Blueming - IU",
+      "Celebrity - IU",
     ],
-    albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
+    albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6", "_7", "_8", "_9"],
     trackUrl = [
       "../../audio/shadow.mp3",
       "../../audio/kidulto.mp3",
       "../../audio/os.mp3",
       "../../audio/fever.mp3",
-      "../../audio/gt.mp3"
+      "../../audio/gt.mp3",
+      "../../audio/dq.mp3",
+      "../../audio/iylm.mp3",
+      "../../audio/blueming.mp3",
+      "../../audio/celebrity.mp3",
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
